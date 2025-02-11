@@ -1,6 +1,8 @@
 ## 🐼 Christian Sumalinog
 
 <p align="center">
+  <strong>College of Information Sciences and Computing</strong>
+  <strong>Central Mindanao University<strong>
   <strong>Developer, Video Editor</strong>
 </p>
 
