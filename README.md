@@ -2,9 +2,16 @@
 
 **'Developer, Video Editor'**
 
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suchannnnn&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=suchannnnn&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suchannnnn&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+</p>
+
 
