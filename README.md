@@ -9,6 +9,12 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suchannnnn&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suchannnnn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
