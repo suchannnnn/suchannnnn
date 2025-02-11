@@ -1,6 +1,6 @@
 ## 🐼 Christian Sumalinog
 
-<p align="center">
+<p align="left">
   <strong>College of Information Sciences and Computing</strong>
   <br>
   <strong>Central Mindanao University<strong>
@@ -15,12 +15,11 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchannnnn&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=suchannnnn&theme=radical" alt="GitHub Streak" />
 </p>
 
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suchannnnn&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchannnnn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
