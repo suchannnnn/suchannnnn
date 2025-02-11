@@ -2,7 +2,9 @@
 
 <p align="center">
   <strong>College of Information Sciences and Computing</strong>
+  <br>
   <strong>Central Mindanao University<strong>
+  <br>
   <strong>Developer, Video Editor</strong>
 </p>
 
