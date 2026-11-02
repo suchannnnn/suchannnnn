@@ -50,5 +50,3 @@
     alt="GitHub Contribution Activity"
   />
 </p>
-
----
