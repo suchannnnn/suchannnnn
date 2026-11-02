@@ -26,11 +26,10 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suchannnnn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchannnnn&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchannnnn&theme=github_dark"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -46,7 +45,10 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suchannnnn&theme=github-compact&hide_border=true&area=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchannnnn&theme=github_dark"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
