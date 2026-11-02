@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  Building software, exploring modern technologies, and continuously improving.
+  Continuously improving. :)
 </p>
 
 ---
 
-### 💻 Technologies
+### 💻 Techs
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,java,js,nodejs,firebase,git,github,vscode&perline=10" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -52,7 +52,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>Learning. Building. Improving.</i>
-</p>
