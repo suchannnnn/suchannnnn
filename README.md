@@ -9,10 +9,6 @@
   Central Mindanao University
 </p>
 
-<p align="center">
-  Continuously improving. :)
-</p>
-
 ---
 
 ### 💻 Techs
